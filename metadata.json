@@ -1,0 +1,6 @@
+{
+  "name": "Canada AI Job Command",
+  "description": "Autonomous Canadian Remote AI/ML Job Intelligence, ATS Optimization and Application Command Center for Michel Dongmo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
